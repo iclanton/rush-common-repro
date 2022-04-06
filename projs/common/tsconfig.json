@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "lib"
+  },
+
+  "files": ["src/x.ts"]
+}

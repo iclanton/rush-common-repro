@@ -1,0 +1,10 @@
+{
+  "buildCacheEnabled": true,
+
+  /**
+   * (Required) Choose where project build outputs will be cached.
+   *
+   * Possible values: "local-only", "azure-blob-storage", "amazon-s3"
+   */
+  "cacheProvider": "local-only"
+}
